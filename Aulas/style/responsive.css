@@ -1,0 +1,21 @@
+
+/*
+    Quando a tela tiver menos de 700px, a ação abaixo será ativada.
+    Do contrário, será aplicado o comando padrão, especificado na classe main
+*/
+@media screen and (max-width: 700px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+    .botao{
+        margin-top: 5px;
+        width: 190px;
+    }
+}
+
+@media screen and (min-width: 1000px){
+    .descricao{
+        width:50%;
+    }
+}
