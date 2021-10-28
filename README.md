@@ -11,3 +11,5 @@ Um projeto realizado para aprimoramento do conhecimento em HTML e CSS recriando 
 - Font Awesome (logos)
 
 - Owl Carousel 2 (Carrossel da Netflix)
+ 
+![exemplo](https://user-images.githubusercontent.com/87672761/139345732-2b562f88-423d-4b22-826a-00898581c634.png)
